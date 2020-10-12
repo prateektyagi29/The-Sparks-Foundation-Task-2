@@ -1,4 +1,4 @@
 # The Sparks-Foundation-Task-2
 
 
-The objective of this task is to build a Decision Tree Classifier model on the Iris dataset and visualize it graphically and also to determine that if we feed any new data into the classifier, would it be able to predict the right class accordingly or not.
+Objective :- From the given "Iris" dataset, predict the optimum number of clusters and represent it visually.
